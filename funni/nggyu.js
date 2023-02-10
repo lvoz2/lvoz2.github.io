@@ -21,6 +21,6 @@ function animate() {
 		divs[frameNumber].className = "visible";
 	} else {
 		clearInterval(id);
-		//location.reload();
+		location.reload();
 	}
 }
