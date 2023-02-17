@@ -1,5 +1,5 @@
 // The following variable can be edited
-var fps = 1; // The frame rate of the animation, in fps
+var fps = 10; // The frame rate of the animation, in fps
 
 // DO NOT EDIT THE STUFF BELOW THIS POINT
 var frameNumber = -1;
